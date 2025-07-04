@@ -1,16 +1,38 @@
-## Hi there 👋
+ Hi there. I'm Kowsalya
+ A passionate and curious Data Science Enthusiast with hands-on experience in Machine Learning, NLP, and AI-powered Chatbots. I enjoy using data to build intelligent, practical solutions that solve real-world problems.
 
-<!--
-**kowsalya76/kowsalya76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’ve worked on building healthcare chatbots using Rasa and Python to solve real-world problems.
+- 📊 I enjoy working with data: cleaning it, analyzing it, visualizing it, and turning it into actionable insights.
+- 🤖 I'm expanding into Generative AI, especially building smart AI agents for tasks like automation and recommendation.
+- 🌱  Currently learning LangChain and exploring how AI agents can improve productivity, automation, and user experience across various industries.
 
-Here are some ideas to get you started:
+**🎯 My Goal**
+- To grow as a Data Scientist and contribute to impactful AI projects that solve real-world problems and drive innovation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🧠 Skills & Tools**
+- 🐍 Python (NumPy, Pandas, Scikit-learn, Matplotlib, TensorFlow)
+- 🧹 Data Collection, Cleaning, Preprocessing & EDA
+- 🧠 Machine Learning, Deep Learning, Predictive Modeling 
+- 💬 NLP & Chatbot Development (Rasa, ChatGPT, Prompt Engineering)
+- 📊 Data Visualization (Power BI, Matplotlib)
+- 🗄️ SQL, Microsoft Excel
+- 💡 Learning: LangChain, AI Agents, Generative AI
+- 🛠️ Tools: Git, GitHub, Jupyter Notebooks, VS Code
+
+**📚 Education**
+- 🎓MSc in IT(Data Science&AI), Garden City University, Bangalore  
+- 🎓BSc in Data Science, JKC College, Guntur
+
+**📫 Let's Connect**
+-🔗 [LinkedIn](https://www.linkedin.com/in/kowsalyamannepalli/)
+-🔗 [Hackerrank](https://www.hackerrank.com/profile/Kowsalya23)
+  
+
+
+
+
+
+
+
+
+
