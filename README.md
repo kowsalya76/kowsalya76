@@ -1,4 +1,4 @@
-**Hi there. I'm Kowsalya**
+**I'm Kowsalya**
 
  A passionate and curious Data Science Enthusiast with hands-on experience in Machine Learning, NLP, and AI-powered Chatbots. I enjoy using data to build intelligent, practical solutions that solve real-world problems.
 
