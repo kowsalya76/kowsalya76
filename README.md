@@ -1,4 +1,4 @@
-**I'm Kowsalya**,a Data Science and AI Engineer with hands-on experience in Machine Learning, NLP, and AI-powered Chatbots. I work with data to build intelligent, practical solutions that solve real-world problems.
+**I'm Kowsalya**, Data Science and AI Engineer with hands-on experience in Machine Learning, NLP, and AI-powered Chatbots. I work with data to build intelligent, practical solutions that solve real-world problems.
 - 🔭 I’ve worked on building healthcare chatbots using Rasa and Python to solve real-world problems.
 - 📊 I enjoy working with data: cleaning it, analyzing it, visualizing it, and turning it into actionable insights.
 - 🤖 I'm expanding into Generative AI, especially building smart AI agents for tasks like automation and recommendation.
